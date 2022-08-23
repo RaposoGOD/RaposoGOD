@@ -1,0 +1,35 @@
+programa {
+	
+
+	funcao 
+	
+	       inteiro eprimo(inteiro n)
+	{
+	    inteiro i, divisores = 0, cont = 1
+	       para(i = 1; i <= n; i++)
+	       {
+	           se(n % i == 0)
+	           divisores ++
+	       }
+	       se(divisores == 2)
+	       retorne 1 
+	       senao
+	       retorne 0 
+	}
+	funcao 
+	
+	      inicio()
+	{
+	    inteiro i, quantidade = 0, somatotal = 0
+	    para(i = 1; i<= 7; i++)
+	    {
+	        se(eprimo(i) == 1)
+{
+    escreva("O Numero " , i , " é primo\n")
+    quantidade = 0
+    somatotal = somatotal+i
+   }
+}	    
+	escreva("A soma dos numeros primos menores iguais a ", i,  " é: ", somatotal)
+	}
+}
