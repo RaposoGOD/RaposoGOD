@@ -1,12 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     <div class="Box mt-4 ">
         <div class="Box-body p-4">
           <p align="center" dir="auto" style="margin-bottom: -15px;">
@@ -65,6 +57,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
 
+
 <details> 
   <summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📊 Stats and Activity</h2><a id="user-content--stats-and-activity" class="anchor" aria-label="Permalink: 📊 Stats and Activity" href="#-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></summary>
   <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🔥 Streak Stats</h3><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rapozinho&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" /></a>
@@ -81,12 +74,11 @@
 <a href="https://github.com/rapozinho/github-readme-stats"><img alt="rapozinho's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapozinho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" style="max-width: 100%;"></a>
 <br></p>
 
-
-
 <p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rapozinho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rapozinho&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" style="max-width: 100%;"></a></p>
   
+
+
 </details>
-</body>
-</html>
+
