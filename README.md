@@ -1,3 +1,4 @@
+  
 <div>
       <p align="center" dir="auto" style="margin-bottom: -15px;">
         <a href="https://github.com/rapozinho">
@@ -76,30 +77,7 @@
 
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rapozinho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rapozinho&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" style="max-width: 100%;"></a></p>
 
-<!-- GitHub Stats -->
-<a href="https://github.com/rapozinho">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rapozinho&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=dark" />
-</a>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/rapozinho">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rapozinho&hide_border=true&theme=dark" />
-</a>
-
-<!-- Most Used Languages -->
-<a href="https://github.com/rapozinho">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapozinho&layout=compact&hide_border=true&theme=dark" />
-</a>
-
-<!-- Wakatime Stats -->
-<a href="https://wakatime.com/@rapozinho">
-  <img align="left" src="https://wakatime.com/badge/user/rapozinho.svg" />
-</a>
-
-<!-- GitHub Activity -->
-<a href="https://github.com/rapozinho">
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=rapozinho&hide_border=true&theme=dark" />
-</a>
 
 </details>
 
