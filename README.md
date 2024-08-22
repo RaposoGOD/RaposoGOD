@@ -1,5 +1,5 @@
 <div>
-      <p align="center" dir="auto" style="margin-bottom: -25px;">
+      <p align="center" dir="auto" style="margin-bottom: -55px;">
         <a href="https://github.com/rapozinho">
           <img width="220px" src="https://raw.githubusercontent.com/rapozinho/RaposoGOD/main/Maur%C3%ADcio%20Raposo%20(name).png" alt="Jonah Lawrence"></a>
       </p>
